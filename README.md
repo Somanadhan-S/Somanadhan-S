@@ -1,12 +1,12 @@
 <!-- 👋 Hi! Welcome to my GitHub Profile -->
 <h1 align="center">Hi 👋, I'm Somanadhan</h1>
-<h3 align="center">🎓 M.Sc Data Science & Business Analyst | 💻 Full Stack Developer → Data Analyst</h3>
+<h3 align="center">🎓 M.Sc Data Science & Business Analyst | 💻  Data Analyst Enthusiast</h3>
 
 ---
 
 ### 🌟 About Me  
-- 📚 Currently pursuing **M.Sc Information Technology**  
-- 💼 Working part-time as a **Programming Tutor** (teaching 6 languages to beginners)  
+- 📚 Currently pursuing **M.Sc Data Science and Business Analyst**  
+- 💼 Working part-time as a **Programming Tutor** (teaching C, C++, Java, Python, HTML, CSS, JS, Mysql, Mongodb, PowerBI, Adv.Excel)  
 - 📊 Passionate about **Data Analysis, Machine Learning, and Web Development**  
 - 🎯 Exploring ways to combine **Full Stack Development + Data Science** for real-world insights  
 - 🌱 Always learning something new every day  
@@ -40,17 +40,20 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40" alt="MySQL"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" alt="Git"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40" alt="GitHub"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/powerbi/powerbi-original.svg" width="40" height="40" alt="Power BI"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/excel/excel-original.svg" width="40" height="40" alt="Excel"/>
+ <img src="https://img.icons8.com/color/48/microsoft-excel-2019--v1.png" width="40" height="40" alt="Excel"/>
+<img src="https://img.icons8.com/color/48/power-bi.png" width="40" height="40" alt="Power BI"/>
+
 </p>
 
 ---
 
 ### 📊 GitHub Stats
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=somanadhan&show_icons=true&theme=tokyonight" alt="GitHub stats" width="450"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=somanadhan&layout=compact&theme=tokyonight" alt="Top Languages" width="350"/>
+  <img src="https://github-readme-stats-Somanadhan-S.vercel.app/api?username=Somanadhan-S&show_icons=true&theme=tokyonight" width="450"/>
+  <img src="https://github-readme-stats-Somanadhan-S.vercel.app/api/top-langs/?username=Somanadhan-S&layout=compact&theme=tokyonight" width="350"/>
 </p>
+
 
 ---
 
@@ -58,7 +61,7 @@
 <p align="left">
   <a href="mailto:somanadhan14112002@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/somanadhan" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="tel:+916303444811"><img src="https://img.shields.io/badge/Phone-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
+
 </p>
 
 ---
