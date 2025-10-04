@@ -50,8 +50,8 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats-Somanadhan-S.vercel.app/api?username=Somanadhan-S&show_icons=true&theme=tokyonight" width="450"/>
-  <img src="https://github-readme-stats-Somanadhan-S.vercel.app/api/top-langs/?username=Somanadhan-S&layout=compact&theme=tokyonight" width="350"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Somanadhan-S&show_icons=true&theme=tokyonight" width="450"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Somanadhan-S&layout=compact&theme=tokyonight" width="350"/>
 </p>
 
 
