@@ -1,17 +1,51 @@
 <!-- 👋 Hi! Welcome to my GitHub Profile -->
-<h1 align="center">Hi 👋, I'm Somanadhan</h1>
-<h3 align="center">🎓 M.Sc Data Science & Business Analyst | 💻  Data Analyst Enthusiast</h3>
+<h1 align="center">Hi 👋, I'm Somu</h1>
+<h3 align="center">
+MIS Executive | Data Analyst | Automation Enthusiast | Data Science Student
+</h3>
 
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=Somanadhan-S&label=Profile%20Views&color=0e75b6&style=flat" />
+</p>
 ---
 
 ### 🌟 About Me  
-- 📚 Currently pursuing **M.Sc Data Science and Business Analyst**  
-- 💼 Working part-time as a **Programming Tutor** (teaching C, C++, Java, Python, HTML, CSS, JS, Mysql, Mongodb, PowerBI, Adv.Excel)  
-- 📊 Passionate about **Data Analysis, Machine Learning, and Web Development**  
-- 🎯 Exploring ways to combine **Full Stack Development + Data Science** for real-world insights  
-- 🌱 Always learning something new every day  
+🔭 Working as **MIS Executive @ Novac Technology Solutions**
+<img src="NOVAC_LOGO_URL" width="120">
+
+📊 Passionate about:
+- Data Analytics
+- Business Intelligence
+- Dashboard Development
+- Process Automation
+- Data-driven Decision Making
+
+🌱 Currently learning:
+- Data Science
+- Advanced Analytics
+- AI Integration
+- Automation Workflows
+
+⚙️ I build and implement automation solutions to improve workplace efficiency.
+
+👨‍🏫 I teach programming concepts and help beginners improve their technical skills.
+
+🎻 Outside technology:
+Learning and practicing **Violin** 🎶
+
+⚡ Fun fact:
+I love converting manual processes into smart automated solutions 🚀
+---
+## 🌐 My Portfolio
+
+🚀 Explore my projects and work:
+
+🔗 https://somanadhans.web.app
+
 
 ---
+
 
 ### 🧰 Skills & Tools  
 
@@ -56,11 +90,22 @@
 
 
 ---
+## 📚 Currently Exploring
+
+🚀 Data Analytics  
+🤖 Artificial Intelligence  
+📊 Business Analytics  
+⚡ Automation Solutions  
+🐍 Python for Data Science  
+---
 
 ### 🤝 Connect With Me
 <p align="left">
   <a href="mailto:somanadhan14112002@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/somanadhan" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://github.com/Somanadhan-S">
+<img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github">
+</a>
 
 </p>
 
