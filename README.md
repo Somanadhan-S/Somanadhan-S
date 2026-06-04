@@ -3,7 +3,7 @@
 <h3 align="center">
 MIS Executive | Data Analyst | Automation Enthusiast | Data Science Student
 </h3>
-
+<img align="right" width="400" src="gitgif.gif">
 
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=Somanadhan-S&label=Profile%20Views&color=0e75b6&style=flat" />
