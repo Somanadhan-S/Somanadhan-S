@@ -1,6 +1,6 @@
 <!-- 👋 Hi! Welcome to my GitHub Profile -->
-<h2 align="center">Hi 👋, I'm Somu</h2>
-<h3 align="center">
+<h2 align="left">Hi 👋, I'm Somu</h2>
+<h3 align="left">
 MIS Executive | Data Analyst | Automation Enthusiast | Data Science Student
 </h3>
 <img align="right" width="400" src="gitgif.gif">
