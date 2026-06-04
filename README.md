@@ -1,13 +1,17 @@
 <!-- 👋 Hi! Welcome to my GitHub Profile -->
-<h1 align="center">Hi all👋, It's me Somu</h1>
+<h1 align="center">Hi 👋, I'm Somu</h1>
+
 <h3 align="center">
 MIS Executive | Data Analyst | Automation Enthusiast | Data Science Student
 </h3>
+
 <img align="right" width="400" src="gitgif.gif">
+
 
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=Somanadhan-S&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
+
 ---
 
 ### 🌟 About Me  
@@ -16,19 +20,56 @@ MIS Executive | Data Analyst | Automation Enthusiast | Data Science Student
 ---
 ## 🌐 My Portfolio
 
-🔭 Explore my projects and work:
-🔗 https://somanadhans.web.app
+🔭 Here's my portfolio:
+
+🌐 <a href="https://somanadhans.web.app/" target="_blank">
+  <img src="https://img.shields.io/badge/Portfolio-Somanadhan%20Portfolio-blue?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+</a>
+
+
+💼 Currently working as:
+
+**MIS Executive @ Novac Technology Solutions**
+
+###<img src="NOVAC_LOGO_URL" width="120">
 
 ---
+Previously worked with:
+
+🏢 **CSC Computer Institute**
+
+
+🌱 Currently learning and working on:
+
+- Data Analytics
+- Business Intelligence
+- AI Integration
+- Automation Workflows
+- Data-driven Solutions
+
+
+👨‍🏫 I teach Data Analyst concepts and help beginners build their technical skills.
+
+
 ⚙️ I build and implement automation solutions to improve workplace efficiency.
 
-👨‍🏫 I teach programming concepts and help beginners improve their technical skills.
-
-🎻 Outside technology:
-Learning and practicing **Violin** 🎶
 
 ⚡ Fun fact:
+
 I love converting manual processes into smart automated solutions 🚀
+
+
+🎻 Outside technology:
+
+Learning and practicing **Violin** 🎶
+---
+## 🌐 My Portfolio
+
+🚀 Explore my projects and work:
+
+👉 <a href="https://somanadhans.web.app/" target="_blank">
+  <img src="https://img.shields.io/badge/Portfolio-Somanadhan%20Portfolio-blue?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+</a>
 ---
 
 
