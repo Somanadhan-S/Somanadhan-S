@@ -8,10 +8,10 @@ MIS Executive | Data Analyst | Automation Enthusiast | Data Science Student
 <img src="https://komarev.com/ghpvc/?username=Somanadhan-S&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
 ---
-🚀 Working as **MIS Executive @ Novac Technology Solutions**
+🚀 Working as   MIS Executive @ Novac Technology Solutions
 <!--<img src="NOVAC_LOGO_URL" width="120"> -->
 ---
-## 🌐 My Portfolio
+🌐 My Portfolio
 
 🔭 Here's my portfolio:
 
@@ -40,7 +40,7 @@ Previously worked with:
 ⚡ Fun fact: 
 I love converting manual processes into smart automated solutions 🚀
 
-🎻 Outside technology: Learning and practicing Violin 🎶
+🎻 Outside interest: Learning and practicing Violin 🎶
 ---
 ## 🌐 My Portfolio
 
