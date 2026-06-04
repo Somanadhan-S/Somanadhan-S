@@ -32,7 +32,7 @@ MIS Executive | Data Analyst | Automation Enthusiast | Data Science Student
 
 <!--<img src="NOVAC_LOGO_URL" width="120">-->
 
----
+
 Previously worked with:
 🏢 **CSC Computer Institute**
 
@@ -132,9 +132,6 @@ Learning and practicing **Violin** 🎶
 </p>
 
 ---
-
-### ✨ Fun Fact
-> "I love converting data into stories and teaching tech concepts to help beginners grow!"
 
 ---
 
