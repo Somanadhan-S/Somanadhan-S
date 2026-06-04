@@ -1,19 +1,13 @@
 <!-- 👋 Hi! Welcome to my GitHub Profile -->
 <h2 align="center">Hi 👋, I'm Somu</h2>
-
 <h3 align="center">
 MIS Executive | Data Analyst | Automation Enthusiast | Data Science Student
 </h3>
-
 <img align="right" width="400" src="gitgif.gif">
-
-
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=Somanadhan-S&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
-
 ---
-
 ### 🌟 About Me  
 🚀 Working as **MIS Executive @ Novac Technology Solutions**
 <!--<img src="NOVAC_LOGO_URL" width="120"> -->
@@ -26,15 +20,10 @@ MIS Executive | Data Analyst | Automation Enthusiast | Data Science Student
   <img src="https://img.shields.io/badge/Portfolio-Somanadhan%20Portfolio-blue?style=for-the-badge&logo=googlechrome&logoColor=white"/>
 </a>
 
-💼 Currently working as:
-
-**MIS Executive @ Novac Technology Solutions**
-
+💼 Working as: MIS Executive @ Novac Technology Solutions
 <!--<img src="NOVAC_LOGO_URL" width="120">-->
-
-
 Previously worked with:
-🏢 **CSC Computer Institute**
+🏢 CSC Computer Institute
 
 
 🌱 Currently learning and working on:
@@ -50,13 +39,10 @@ Previously worked with:
 
 ⚙️ I build and implement automation solutions to improve workplace efficiency.
 
-⚡ Fun fact:
+⚡ Fun fact: 
 I love converting manual processes into smart automated solutions 🚀
 
-
-🎻 Outside technology:
-
-Learning and practicing **Violin** 🎶
+🎻 Outside technology: Learning and practicing Violin 🎶
 ---
 ## 🌐 My Portfolio
 
