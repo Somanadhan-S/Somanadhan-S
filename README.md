@@ -8,13 +8,18 @@ MIS Executive | Data Analyst | Automation Enthusiast | Data Science Student
 <img src="https://komarev.com/ghpvc/?username=Somanadhan-S&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
 ---
+
 🚀 Working as   MIS Executive @ Novac Technology Solutions
 <!--<img src="NOVAC_LOGO_URL" width="120"> -->
+
 ---
+
 ### 🤝 Connect With Me
 <p align="left">
-<a href="mailto:somanadhan14112002@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="https://www.linkedin.com/in/somanadhan" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:somanadhan14112002@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/somanadhan" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="https://github.com/Somanadhan-S">
 <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github">
 </a>
