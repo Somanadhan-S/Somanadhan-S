@@ -9,7 +9,7 @@ MIS Executive | Data Analyst | Automation Enthusiast | Data Science Student
 </p>
 
 
-🚀 Working as   MIS Executive @ Novac Technology Solutions
+🚀 Working as   MIS Executive @
 <img src="novac.png" width="120">
 
 ### 🤝 Connect With Me
