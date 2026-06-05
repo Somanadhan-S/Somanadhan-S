@@ -46,8 +46,6 @@ MIS Executive | Data Analyst | Automation Enthusiast | Data Science Student
   <img src="https://img.shields.io/badge/Portfolio-Somanadhan%20Portfolio-blue?style=for-the-badge&logo=googlechrome&logoColor=white"/>
 </a>
 
-💼 Working as: MIS Executive @ Novac Technology Solutions
-<!--<img src="NOVAC_LOGO_URL" width="120">-->
 Previously worked with: CSC Computer Institute
 
 🌱 Currently learning and working on:
