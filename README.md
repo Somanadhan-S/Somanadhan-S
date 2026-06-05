@@ -28,7 +28,7 @@ MIS Executive | Data Analyst | Automation Enthusiast | Data Science Student
 </a>
 
 <a href="https://instagram.com/_somu_._s/" target="_blank">
-<img src="https://img.shields.io/badge/Instagram-_somu__._s-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
 
 
@@ -67,15 +67,6 @@ I love converting manual processes into smart automated solutions 🚀
 
 🎻 Outside interest: Learning and practicing Violin 🎶
 ---
-🌐 My Portfolio
-
-🚀 Explore my projects and work:
-
-👉 <a href="https://somanadhans.web.app/" target="_blank">
-  <img src="https://img.shields.io/badge/Portfolio-Somanadhan%20Portfolio-blue?style=for-the-badge&logo=googlechrome&logoColor=white"/>
-</a>
----
-
 
 
 ### 🧰 Skills & Tools  
