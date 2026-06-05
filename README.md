@@ -11,6 +11,21 @@ MIS Executive | Data Analyst | Automation Enthusiast | Data Science Student
 🚀 Working as   MIS Executive @ Novac Technology Solutions
 <!--<img src="NOVAC_LOGO_URL" width="120"> -->
 ---
+### 🤝 Connect With Me
+<p align="left">
+<a href="mailto:somanadhan14112002@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/somanadhan" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://github.com/Somanadhan-S">
+<img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github">
+</a>
+<a href="https://instagram.com/_somu_._s/" target="_blank">
+<img src="https://img.shields.io/badge/Instagram-Somanadhan-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+<!--<a href="https://facebook.com/YOUR_USERNAME" target="_blank">
+<img src="https://img.shields.io/badge/Facebook-Somanadhan-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
+</a>-->
+</p>
+---
 🌐 My Portfolio
 
 🔭 Here's my portfolio:
@@ -30,7 +45,6 @@ Previously worked with: CSC Computer Institute
 - AI Integration
 - Automation Workflows
 - Data-driven Solutions
-
 
 👨‍🏫 I teach Data Analyst concepts and help beginners build their technical skills.
 
@@ -93,27 +107,7 @@ I love converting manual processes into smart automated solutions 🚀
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Somanadhan-S&layout=compact&theme=tokyonight" width="350"/>
 </p>
 
-
 ---
-
-
-### 🤝 Connect With Me
-<p align="left">
-<a href="mailto:somanadhan14112002@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="https://www.linkedin.com/in/somanadhan" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://github.com/Somanadhan-S">
-<img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github">
-</a>
-<a href="https://instagram.com/_somu_._s/" target="_blank">
-<img src="https://img.shields.io/badge/Instagram-Somanadhan-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-</a>
-<a href="https://somanadhans.web.app/" target="_blank">
-<img src="https://img.shields.io/badge/Portfolio-Somanadhan%20Portfolio-blue?style=for-the-badge&logo=googlechrome&logoColor=white"/>
-</a>
-<!--<a href="https://facebook.com/YOUR_USERNAME" target="_blank">
-<img src="https://img.shields.io/badge/Facebook-Somanadhan-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
-</a>-->
-</p>
 
 ⭐ **Feel free to explore my repositories and connect — I’m always open to learning, collaboration, and data-driven projects.**
 
