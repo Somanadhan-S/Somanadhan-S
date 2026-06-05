@@ -7,28 +7,35 @@ MIS Executive | Data Analyst | Automation Enthusiast | Data Science Student
 <p align="left">
 <img src="https://komarev.com/ghpvc/?username=Somanadhan-S&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
----
+
 
 🚀 Working as   MIS Executive @ Novac Technology Solutions
 <!--<img src="NOVAC_LOGO_URL" width="120"> -->
 
----
-
 ### 🤝 Connect With Me
 <p align="left">
+
 <a href="mailto:somanadhan14112002@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
 <a href="https://www.linkedin.com/in/somanadhan" target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
 <a href="https://github.com/Somanadhan-S">
-<img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github">
+<img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
+
 <a href="https://instagram.com/_somu_._s/" target="_blank">
-<img src="https://img.shields.io/badge/Instagram-Somanadhan-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+<img src="https://img.shields.io/badge/Instagram-_somu__._s-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
+
+
 <!--<a href="https://facebook.com/YOUR_USERNAME" target="_blank">
 <img src="https://img.shields.io/badge/Facebook-Somanadhan-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
 </a>-->
+
 </p>
 ---
 🌐 My Portfolio
