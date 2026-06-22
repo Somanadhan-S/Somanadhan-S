@@ -108,13 +108,7 @@ I love converting manual processes into smart automated solutions 🚀
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Somanadhan-S&layout=compact&theme=tokyonight" width="350"/>
 </p>
 
-## 🧠 LeetCode Stats
 
-<p align="center">
-
-<img src="https://leetcard.jacoblin.cool/somanadhan?theme=dark&font=Baloo&ext=contest" />
-
-</p>
 
 ## 🔥 LeetCode Activity
 
