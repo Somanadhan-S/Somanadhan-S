@@ -108,6 +108,49 @@ I love converting manual processes into smart automated solutions 🚀
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Somanadhan-S&layout=compact&theme=tokyonight" width="350"/>
 </p>
 
+## 🧠 LeetCode Stats
+
+<p align="center">
+
+<img src="https://leetcard.jacoblin.cool/somanadhan?theme=dark&font=Baloo&ext=contest" />
+
+</p>
+
+## 🔥 LeetCode Activity
+
+<p align="center">
+
+<img src="https://leetcard.jacoblin.cool/somanadhan?ext=heatmap" />
+
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=somanadhan&show_icons=true&theme=tokyonight"/>
+
+</p>
+
+---
+
+## 🧠 Problem Solving
+
+<p align="center">
+
+<img src="https://leetcard.jacoblin.cool/somanadhan?theme=dark&font=Baloo&ext=contest"/>
+
+</p>
+
+<a href="https://leetcode.com/somanadhan/" target="_blank">
+
+<img src="https://img.shields.io/badge/LeetCode-Problem%20Solver-orange?style=for-the-badge&logo=leetcode&logoColor=black"/>
+
+</a>
+
+
 ---
 
 ⭐ **Feel free to explore my repositories and connect — I’m always open to learning, collaboration, and data-driven projects.**
