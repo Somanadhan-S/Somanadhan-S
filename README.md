@@ -131,7 +131,7 @@ I love converting manual processes into smart automated solutions 🚀
 
 <p align="center">
 
-<img src="https://raw.githubusercontent.com/Somanadhan-S/Somanadhan-S/output/github-contribution-grid-snake.svg">
+<img src="https://github-readme-stats.vercel.app/api?username=Somanadhan-S&show_icons=true&theme=tokyonight"/>
 
 </p>
 
