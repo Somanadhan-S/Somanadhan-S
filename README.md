@@ -127,11 +127,11 @@ I love converting manual processes into smart automated solutions 🚀
 
 ---
 
-## 🐍 My GitHub Contribution Graph
+## 📈 Contribution Activity
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Somanadhan-S&show_icons=true&theme=tokyonight"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Somanadhan-S&theme=tokyo-night&custom_title=Daily%20Contribution%20Graph&area=true&hide_border=true">
 
 </p>
 
