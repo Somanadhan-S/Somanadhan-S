@@ -129,7 +129,6 @@ I love converting manual processes into smart automated solutions 🚀
 
 ## 🐍 My GitHub Contribution Graph
 
-
 <p align="center">
 
 <img src="https://raw.githubusercontent.com/Somanadhan-S/Somanadhan-S/output/github-contribution-grid-snake.svg">
