@@ -118,25 +118,6 @@ I love converting manual processes into smart automated solutions 🚀
 
 </p>
 
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=somanadhan&show_icons=true&theme=tokyonight"/>
-
-</p>
-
----
-
-## 🧠 Problem Solving
-
-<p align="center">
-
-<img src="https://leetcard.jacoblin.cool/somanadhan?theme=dark&font=Baloo&ext=contest"/>
-
-</p>
 
 <a href="https://leetcode.com/somanadhan/" target="_blank">
 
