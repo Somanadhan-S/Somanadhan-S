@@ -102,37 +102,26 @@ I love converting manual processes into smart automated solutions 🚀
 ---
 
 ### 📊 GitHub Stats
+### 📊 GitHub Stats
 
 <p align="center">
   <img
     src="https://github-readme-stats.vercel.app/api?username=Somanadhan-S&show_icons=true&theme=tokyonight&hide_border=true"
-    height="180"
+    width="48%"
   />
 
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Somanadhan-S&layout=compact&theme=tokyonight&hide_border=true"
-    height="180"
+    src="https://streak-stats.demolab.com?user=Somanadhan-S&theme=tokyonight&hide_border=true"
+    width="48%"
   />
 </p>
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=Somanadhan-S&show_icons=true&theme=tokyonight"
-    height="180"
-  />
-
-  <img
-    src="https://streak-stats.demolab.com?user=Somanadhan-S&theme=tokyonight"
-    height="180"
-  />
-
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Somanadhan-S&layout=compact&theme=tokyonight"
-    height="180"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Somanadhan-S&layout=compact&theme=tokyonight&hide_border=true"
+    width="40%"
   />
 </p>
-
-
 
 ## 🔥 LeetCode Activity
 
