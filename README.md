@@ -104,9 +104,20 @@ I love converting manual processes into smart automated solutions 🚀
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Somanadhan-S&show_icons=true&theme=tokyonight&v=2"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=Somanadhan-S&show_icons=true&theme=tokyonight" width="450"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Somanadhan-S&layout=compact&theme=tokyonight" width="350"/>
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=Somanadhan-S&show_icons=true&theme=tokyonight"
+    height="180"
+  />
+
+  <img
+    src="https://streak-stats.demolab.com?user=Somanadhan-S&theme=tokyonight"
+    height="180"
+  />
+
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Somanadhan-S&layout=compact&theme=tokyonight"
+    height="180"
+  />
 </p>
 
 
