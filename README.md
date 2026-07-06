@@ -113,15 +113,15 @@ I love converting manual processes into smart automated solutions 🚀
     src="https://streak-stats.demolab.com?user=Somanadhan-S&theme=tokyonight&hide_border=true"
     width="48%"
   />
-</p>
+</p>-->
+
 
 <p align="center">
   <img
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=Somanadhan-S&layout=compact&theme=tokyonight&hide_border=true"
     width="40%"
   />
-</p>-->
-
+</p>
 ## 🔥 LeetCode Activity
 
 <p align="left">
