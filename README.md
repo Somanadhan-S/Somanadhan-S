@@ -102,12 +102,11 @@ I love converting manual processes into smart automated solutions 🚀
 ---
 
 ### 📊 GitHub Stats
-### 📊 GitHub Stats
 
 <p align="center">
   <img
     src="https://github-readme-stats.vercel.app/api?username=Somanadhan-S&show_icons=true&theme=tokyonight&hide_border=true"
-    width="48%"
+    width="40%"
   />
 
   <img
@@ -128,7 +127,6 @@ I love converting manual processes into smart automated solutions 🚀
 <p align="center">
 
 <img src="https://leetcard.jacoblin.cool/somanadhan?ext=heatmap" />
-<img src="https://leetcard.jacoblin.cool/somanadhan?ext=heatmap&v=2"/>
 
 </p>
 
