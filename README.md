@@ -121,9 +121,7 @@ I love converting manual processes into smart automated solutions 🚀
 ## 📈 Contribution Activity
 
 <p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Somanadhan-S&theme=tokyo-night&custom_title=Daily%20Contribution%20Graph&area=true&hide_border=true">
-
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Somanadhan-S&bg_color=000000&color=39d353&line=39d353&point=39d353&area=true&area_color=0e4429&hide_border=true&title_color=39d353&custom_title=Daily%20Contribution%20Graph" />
 </p>
 
 ---
